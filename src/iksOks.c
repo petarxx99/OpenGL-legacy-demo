@@ -27,7 +27,7 @@ glfwGetWindowUserPointer(window);
     int red = (int) (3 * absY / glavniStruct->windowVisina);
 
 
-    if(glavniStruct->kvadrati[red][kolona] == 0  &&
+    if(glavniStruct->kvadrati[red][kolona] == PRAZNO_POLJE  &&
 glavniStruct->partijaGotova == PARTIJA_TRAJE){
 
          glavniStruct->kvadrati[red][kolona] =
