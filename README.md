@@ -1,5 +1,4 @@
-# OpenGL-legacy-demo
-iks oks sa legacy OpenGL
+tic tac toe with legacy OpenGL
 
 When I am on Linux, I compile opengl/glfw projects like this:
 
