@@ -3,6 +3,7 @@ tic tac toe with legacy OpenGL
 When I am on Linux, I compile opengl/glfw projects like this:
 
 gcc main.c -lGL -lglfw
+
 When I am on windows, I compile them by writing:
 gcc main.c libglfw3.a -lopengl32 -lgdi32
 
