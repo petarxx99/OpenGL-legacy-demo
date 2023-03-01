@@ -1,4 +1,4 @@
-tic tac toe with legacy OpenGL
+tic tac toe with C, OpenGL and GLFW
 
 When I am on Linux, I compile and link opengl/glfw projects like this: <br>
 
