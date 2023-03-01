@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<GLFW/glfw3.h>
-/* If you are on windows, instead of including the file above, write #include"glfw3.h" I assume you puth glfw3.h in the src directory.  */
+/* If you are on windows, instead of including the glfw3.h file like in the manner above, write #include"glfw3.h". I assume you puth glfw3.h in the src directory.  */
 #include"header.h"
 
 
